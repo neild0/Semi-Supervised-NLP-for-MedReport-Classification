@@ -1,4 +1,4 @@
-# Semi Supervised NLP for MedReport Classification
+# Semi Supervised NLP for Fine-Grained Medical Report Classification
 
 This folder contains the most useful notebooks to train/eval/run the semi-supervised model.
 * `quick_training` is functionally the same as `detailed_training`, but without the complex documentation and methods defined in the notebook. It pulls the methods from the architecture folder, which has scripts of predefined functions.
